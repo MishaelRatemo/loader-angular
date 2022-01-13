@@ -1,5 +1,9 @@
 # Httploader
 
+# Project Description
+    this application demonstrates on how to use ng-http-loader while making http requets to let user know we waiting for somethiing....
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
